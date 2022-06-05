@@ -1,5 +1,5 @@
-const CONFIG = {
-    titleWeb: "Happy Birth Day ",
+const CONFIG = {ahihi
+    titleWeb: "Happy Birth Day",
     introTitle: 'Quach Thuy Linh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
